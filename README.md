@@ -100,4 +100,3 @@ employee_management_system/
 └── README.md
 ```
 
-This system covers all the assignment requirements with a clean, simple implementation that's easy to understand and demonstrate.
