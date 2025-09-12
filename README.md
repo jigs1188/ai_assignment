@@ -98,5 +98,3 @@ employee_management_system/
 - Clean REST API design
 │   ├── css/styles.css
 └── README.md
-```
-
